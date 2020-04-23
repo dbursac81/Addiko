@@ -1,0 +1,17 @@
+
+ADDIKO DEMO	
+
+Korišteni su:
+- Visual Studio Community 2017 - WinForms & ADO.NET
+- MS SQL Server 2008	
+
+Napomena:
+-AddikoDemo.zip je solution zadatka
+-nakon raspakiravanja potrebno je podesiti connectionString u klasi Connection.cs
+-ispunjeni su svi traženi zadaci što se tiče unosa primatelja i SMS-a te slanja poruka.
+-SMS poruke se spremaju u C:\SMS
+-Log se sprema u C:\AddikoLOG
+-Dodani su SQL Server Database projekt i u njemu potrebne skripte. Pretpostavljam da je sve prošlo u redu, s obzirom da sam prvi put to sada dodavao u solution i importao.
+
+-Dodane su baze SA i BEZ usera (za svaki slučaj, s obzirom da nisam baš previše do sada mijenjao i dodavao uloge za baze pa ukoliko iskoči neki problem).
+-dodao sam također originalno cijelu skriptu za bazu, generirana iz samog SQL-a.
