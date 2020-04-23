@@ -1,2 +1,0 @@
-# Addiko
-Rješenje selekcijskog zadatka
